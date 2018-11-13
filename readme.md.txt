@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-This update in git repo directly
-=======
-
-This update in git === master branch
-
->>>>>>> master
+This is v1.0 commit 1
